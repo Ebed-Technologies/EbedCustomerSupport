@@ -21,6 +21,6 @@ to that issue.
 ## Some guidelines
 
 * Note that this is a public site, so don't write anything that you are not willing for others to see.
-* Avoid profanity, insultes and other such language.
+* Avoid profanity, insults and other such language.
 * Describe your issue briefly, but include as much information as you think we will need.
 
